@@ -1,1 +1,3 @@
 clean mofo bro
+
+what is a gitk for linux
